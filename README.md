@@ -4,7 +4,6 @@
 
 预览地址：[https://sfggwwf.github.io/home](https://sfggwwf.github.io/home)
 
-国内地址：[https://sfggwwf.gitee.io/home](https://sfggwwf.gitee.io/home)
 
 ## 集成插件
 
